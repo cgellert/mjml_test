@@ -1,0 +1,247 @@
+{
+  "sections": [
+    {
+      "__typename": "FeaturedSection",
+      "id": 0,
+      "headline": "Headline for Featured Article ",
+      "postedDate": "Fri, 12 Jun 2020 07:47:48 GMT",
+      "permalink": "#",
+      "tags": [
+        {
+          "id": 6,
+          "name": "Tag 2"
+        }
+      ],
+      "author": {
+        "id": 30,
+        "name": "Faker News Author 3"
+      },
+      "image": {
+        "url": "https://raw.githubusercontent.com/TraceyHolinka/vuejs-email-renderer/master/src/assets/doggy.jpg",
+        "alt": "Puppy lying on the ground."
+      },
+      "body": "<h2>Cute little puppy dog</h2><p>And we can leave it running. This flattering and offices. So they never have. She is a pleasure to work or not, and resilience. </ P> <p> Mollitia retiring from the game. The provision of present pain or sleep. There is some consequences. This prevents pleasure. </ P> <p> She hates for resilience. And that lady. There is no result but to follow them will I come, or enhanced. Extremely smart film. Or, find fault with, however, the pleasure of deleniti. Because of the greater responsibilities or from any involvement. </ P> <p> faced the choice often the consumer wants. In order to carry messages we assumed that the most sense. Regular pain expeditiously. </ P> <p> perspiciatis fortunately pleasure. But there is no mind and with a desire to explorer of the power of choice. Indignation in body, especially the deleniti accepted discomfort. Of truth from the pain, which was selected for the less condemn. How important is that we have to run at will.</p>"
+    },
+    {
+      "__typename": "FeedSection",
+      "id": 51,
+      "title": "Some Interesting Stuff",
+      "items": [
+        {
+          "id": 10,
+          "headline": "Headline for Faker News Article 1",
+          "postedDate": "Fri, 12 Jun 2020 03:47:48 GMT",
+          "permalink": "#",
+          "tags": [
+            {
+              "id": 21,
+              "name": "Tag 1"
+            },
+            {
+              "id": 26,
+              "name": "Tag 2"
+            }
+          ],
+          "author": {
+            "id": 30,
+            "name": "Faker News Author 1"
+          },
+          "summary": "Sometimes result from small pleasure. Born rejects, or the consequences will be coming to the offices. Whence this error arose, and them that rebel. Of these we may be able to exercise the effort. Outdoor deserving enhanced. Was born, or something similar has to attain unto Him, however, of all the things which I have to pay.",
+          "image": {
+            "url": "https://raw.githubusercontent.com/TraceyHolinka/vuejs-email-renderer/master/src/assets/piggy.jpg",
+            "alt": "Close up of pig in field.",
+            "display": true
+          }
+        },
+        {
+          "id": 11,
+          "headline": "Headline for Faker News Article 2",
+          "postedDate": "Fri, 12 Jun 2020 12:48:07 GMT",
+          "permalink": "#",
+          "tags": [
+            {
+              "id": 21,
+              "name": "Tag 1"
+            }
+          ],
+          "author": {
+            "id": 30,
+            "name": "Faker News Author 1"
+          },
+          "summary": "But there is no pleasure in the flattery of her repudiated the labor he may please the course of the life. The choice of the blame, the pain, or they do not often follow on it. The cast so that it has become an obstacle to it.",
+          "image": {
+            "url": "https://raw.githubusercontent.com/TraceyHolinka/vuejs-email-renderer/master/src/assets/cat.jpg",
+            "alt": "Cat on top of fence.",
+            "display": false
+          }
+        },
+        {
+          "id": 12,
+          "headline": "Headline for Faker News Article 3",
+          "postedDate": "Fri, 12 Jun 2020 00:08:25 GMT",
+          "permalink": "#",
+          "tags": [
+            {
+              "id": 28,
+              "name": "Tag 3"
+            },
+            {
+              "id": 26,
+              "name": "Tag 2"
+            }
+          ],
+          "author": {
+            "id": 30,
+            "name": "Faker News Author 1"
+          },
+          "summary": "Prosecutors should be avoided and that they are rejecting. For anything but the most worthy to abandon pain and pleasure. By a similar distinction is accepted. The most easy to follow the Blessed Virgin that the degree in which they deserted the general's pleasure. Those who carry messages to make the pain of harsh.",
+          "image": null
+        },
+        {
+          "id": 13,
+          "headline": "Headline for Faker News Article 4",
+          "postedDate": "Fri, 12 Jun 2020 02:01:34 GMT",
+          "permalink": "#",
+          "tags": [
+            {
+              "id": 21,
+              "name": "Tag 1"
+            }
+          ],
+          "author": {
+            "id": 31,
+            "name": "Faker News Author 2"
+          },
+          "summary": "In very welcome sufficient. My grief, all the praise with canticles, nothing at all. As if to explain the effeminacy of their life will never be to us. In order to encounter him, it is the one easy-to-: and and and.",
+          "image": null
+        },
+        {
+          "id": 14,
+          "headline": "Headline for Faker News Article 5",
+          "postedDate": "Thu, 11 Jun 2020 02:31:56 GMT",
+          "permalink": "#",
+          "tags": [
+            {
+              "id": 28,
+              "name": "Tag 3"
+            },
+            {
+              "id": 26,
+              "name": "Tag 2"
+            },
+            {
+              "id": 24,
+              "name": "Tag 4"
+            }
+          ],
+          "author": {
+            "id": 32,
+            "name": "Faker News Author 3"
+          },
+          "summary": "To provide such services. Of which, but of things, but that is to follow, therefore, consectetur adipiscing elit. For the Church, so that to achieve the great one who will one be the smallest.",
+          "image": null
+        }
+      ]
+    },
+    {
+      "__typename": "ImageSection",
+      "id": 41,
+      "url": "https://raw.githubusercontent.com/TraceyHolinka/vuejs-email-renderer/master/src/assets/flower.jpg",
+      "alt": "A white flower on a blue sky."
+    },
+    {
+      "__typename": "FeedSection",
+      "id": 52,
+      "title": "Some Not So Interesting Stuff",
+      "items": [
+        {
+          "id": 15,
+          "headline": "Headline for Faker News Article 6",
+          "postedDate": "Thu, 11 Jun 2020 16:28:25 GMT",
+          "permalink": "#",
+          "tags": [],
+          "author": {
+            "id": 30,
+            "name": "Faker News Author 1"
+          },
+          "summary": "Debitis the master builder as, or often may wish to try. We went to some of these, they deserted the clear view of the flattery of her. Because the body is free and easy. Flattering of which are undesirable. The pleasure that these efforts. In order to obtain, however, because it is, indeed, accepted and blessed them.",
+          "image": {
+            "url": "https://raw.githubusercontent.com/TraceyHolinka/vuejs-email-renderer/master/src/assets/tigger.jpg",
+            "alt": "Tiger lying on stone wall.",
+            "display": true
+          }
+        },
+        {
+          "id": 16,
+          "headline": "Headline for Faker News Article 7",
+          "postedDate": "Thu, 11 Jun 2020 08:57:55 GMT",
+          "permalink": "#",
+          "tags": [
+            {
+              "id": 21,
+              "name": "Tag 1"
+            },
+            {
+              "id": 28,
+              "name": "Tag 3"
+            },
+            {
+              "id": 24,
+              "name": "Tag 4"
+            }
+          ],
+          "author": {
+            "id": 31,
+            "name": "Faker News Author 2"
+          },
+          "summary": "Any pleasure, however, deserted the general's, and to follow the Great, a great victory. Refused to the exercise of the flight of the Blessed Virgin, and of all the pleasures of sensual delights. This is painful but assumed. And thanks for the great man himself. Follow a pleasure to abandon. Major and very open.",
+          "image": {
+            "url": "https://raw.githubusercontent.com/TraceyHolinka/vuejs-email-renderer/master/src/assets/trees.jpg",
+            "alt": "Trees with fall colored leaves along a path.",
+            "display": false
+          }
+        },
+        {
+          "id": 17,
+          "headline": "Headline for Faker News Article 8",
+          "postedDate": "Fri, 12 Jun 2020 02:48:11 GMT",
+          "permalink": "#",
+          "tags": [
+            {
+              "id": 24,
+              "name": "Tag 4"
+            }
+          ],
+          "author": {
+            "id": 31,
+            "name": "Faker News Author 2"
+          },
+          "summary": "It can not be acceptable to every one the debts which interferes with, or will follow on it. This film will explain the responsibilities and prosecutors are doing. Because the pain from the smallest bound to encounter. In order to attain the truth is that shake her. Resilience even as a small incident welcome.",
+          "image": null
+        },
+        {
+          "id": 18,
+          "headline": "Headline for Faker News Article 9",
+          "postedDate": "Thu, 11 Jun 2020 04:50:39 GMT",
+          "permalink": "#",
+          "tags": [
+            {
+              "id": 21,
+              "name": "Tag 1"
+            },
+            {
+              "id": 24,
+              "name": "Tag 4"
+            }
+          ],
+          "author": {
+            "id": 32,
+            "name": "Faker News Author 3"
+          },
+          "summary": "Unless it has been said in the time of which I, and less than the pain. And when the disgraceful cowardice, not of things will open, in, or the desire to achieve. We may be able to obtain, or will occur, or that man, except that there may be pain. Criticized the needs and rights. And pain mistake he wants to exercise. There is a greater pleasure to repel them are true pleasure.",
+          "image": null
+        }
+      ]
+    }
+  ]
+}
