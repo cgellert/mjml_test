@@ -6,6 +6,7 @@
   "main": "src/renderer.js",
   "scripts": {
     "dev": "mkdir dist; node ./build/buildHtmlWithMockData.js > dist/htmlWithMockData.html",
+    "devRec": "mkdir dist; node ./build/buildReceipt.js > dist/htmlReceipt.html",
     "test:unit": "jest '(^.*(test|spec).(js|jsx|ts|tsx))'"
   },
   "dependencies": {
